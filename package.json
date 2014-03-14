@@ -5,7 +5,13 @@
     "version":"0.1.0",
     "main":"./lib/dependencyManager.js",
     "keywords":["bower","dependencies","order"],
+    "scripts": {
+    "test": "jasmine-node tests"
+    },
     "dependencies":{
-        "bower":"~3.0.0",
-        "semver":"*"
+    },
+    "devDependencies":{
+        "jasmine-node":"latest"
     }
+}
+    
