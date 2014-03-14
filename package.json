@@ -1,6 +1,6 @@
 {
     "author":"PedalPete",
-    "name":"BowerDependencyManager",
+    "name":"dependency-orderer",
     "description":"checks that all your dependencies have been downloaded and returns a list of javascript files, ordered based on the dependencies",
     "version":"0.1.0",
     "main":"./lib/dependencyManager.js",
